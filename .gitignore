@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist_electron
+dist-ssr
+*.local
+.vscode
+.node-version
+electron/electron.js
